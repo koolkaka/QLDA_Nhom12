@@ -11,7 +11,7 @@ namespace DoAn_2
 {
     class ClassKetnoi
     {
-       public static SqlConnection connect = new SqlConnection(@"Data Source=DESKTOP-H4FLVMV;Initial Catalog=doan-3;Integrated Security=True");
+       public static SqlConnection connect = new SqlConnection(@"Data Source=LAPTOP-TJOSB6MA;Initial Catalog=doan-3;Integrated Security=True");
 
     }
 }

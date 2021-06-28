@@ -224,3 +224,34 @@ C:\Users\Windows 10 YSL 1909\Downloads\Compressed\Đồ án 3\Project file Visua
 C:\Users\Windows 10 YSL 1909\Downloads\Compressed\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\Debug\DoAn-2.csproj.CopyComplete
 C:\Users\Windows 10 YSL 1909\Downloads\Compressed\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\Debug\DoAn-2.exe
 C:\Users\Windows 10 YSL 1909\Downloads\Compressed\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\Debug\DoAn-2.pdb
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\DoAn-2.exe.config
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\DoAn-2.exe
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\DoAn-2.pdb
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.csprojAssemblyReference.cache
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.csproj.ResolveComReference.cache
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.Form1.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MainControl.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.BanHang.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.BanHangTT.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.ChartMoney.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.ChartSLSP.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.ChartSPHet.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.Dashboard.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.donhang.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.DonViSP.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.HoaDonChiTiet.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.LoaiSP.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.Setting.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.tonkho.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.MenuTab.sanpham.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn_2.Properties.Resources.resources
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.csproj.GenerateResource.cache
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.csproj.CopyComplete
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.exe
+C:\Users\This PC\Desktop\QLDA_Nhom12\DoAn-2\DoAn-2\obj\Debug\DoAn-2.pdb
