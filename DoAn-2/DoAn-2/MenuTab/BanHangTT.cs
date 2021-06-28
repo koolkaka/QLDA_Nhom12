@@ -27,7 +27,7 @@ namespace DoAn_2.MenuTab
         int thanhtoanno; //set tiền thanh toán sql nếu có nợ
         string sdtkh = BanHang.TenKH;
         string tenkh = BanHang.SDT;
-
+//Văn
         SqlCommand cmd = new SqlCommand();
         SqlDataReader rdr;
         DataSet ds;
